@@ -1,7 +1,1 @@
-{
-   "name": "Example Token",
-   "description": "Official token",
-   "symbol": "EXTO",
-   "decimals": 9,
-   "image_data": "4bWxuczPHN2ZyB0..."
-}
+{"name": "BOM", "description": "BOM", "symbol": "BOM", "image_data": "https://pool.brox.su/i/alice.jpg"}
